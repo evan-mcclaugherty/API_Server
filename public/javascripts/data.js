@@ -1,3 +1,3 @@
 module.exports = {
-    hello: "Hello"
+    hello: "What up Mike!"
 }
